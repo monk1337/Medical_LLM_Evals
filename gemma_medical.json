@@ -1,0 +1,38 @@
+{
+    "Dataset": [
+        "multimedqa",
+        "medmcqa",
+        "medqa_4options",
+        "mmlu_anatomy",
+        "mmlu_clinical_knowledge",
+        "mmlu_college_biology",
+        "mmlu_college_medicine",
+        "mmlu_medical_genetics",
+        "mmlu_professional_medicine",
+        "pubmedqa"
+    ],
+    "Mistral-7B-v0.1": [
+        0.533002,
+        0.481951,
+        0.508248,
+        0.555556,
+        0.686792,
+        0.680556,
+        0.595376,
+        0.71,
+        0.683824,
+        0.754
+    ],
+    "Gemma": [
+        0.254791,
+        0.217547,
+        0.254517,
+        0.244444,
+        0.264151,
+        0.263889,
+        0.346821,
+        0.24,
+        0.220588,
+        0.552
+    ]
+}
